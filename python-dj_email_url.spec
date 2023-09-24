@@ -1,7 +1,7 @@
 #
 # Conditional build:
 %bcond_without	python2 # CPython 2.x module
-%bcond_without	python3 # CPython 3.x module
+%bcond_with	python3 # CPython 3.x module (built from python3-dj_email_url.spec)
 
 Summary:	Use an URL to configure email backend settings in your Django Application
 Summary(pl.UTF-8):	Konfigurowanie ustawień backendu e-mail w aplikacji Django przy użyciu URL-a
