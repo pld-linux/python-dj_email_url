@@ -8,7 +8,7 @@ Summary(pl.UTF-8):	Konfigurowanie ustawień backendu e-mail w aplikacji Django p
 Name:		python-dj_email_url
 # keep 0.x here for python2 support
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/dj-email-url/
